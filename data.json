@@ -1,35 +1,7 @@
 {
     "name":"Nishant",
     "email":"nishant@email.com",
-    "add":"Blr"
-},
-{
-    "name":"Nishant",
-    "email":"nishant@email.com",
-    "add":"Blr"
-},
-{
-    "name":"Nishant",
-    "email":"nishant@email.com",
-    "add":"Blr"
-},
-{
-    "name":"Nishant",
-    "email":"nishant@email.com",
-    "add":"Blr"
-},
-{
-    "name":"Nishant",
-    "email":"nishant@email.com",
-    "add":"Blr"
-},
-{
-    "name":"Nishant",
-    "email":"nishant@email.com",
-    "add":"Blr"
-},
-{
-    "name":"Nishant",
-    "email":"nishant@email.com",
-    "add":"Blr"
-},
+    "add":"Blr",
+    "domain":"fullstack",
+    "cloud":"AWS"
+}
